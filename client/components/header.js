@@ -26,7 +26,6 @@ const Header = () => {
       </div>
       {toggled && (
         <a href="https://www.google.com"
-          target="_blanket"
         >
           <div id="menu" className="block">
             <button
